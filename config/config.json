@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd11fdf9b95c544873bf3eafb9d5ac6dde24cfed1",
+  "SCAN_LINK": "https://polygonscan.com/address/0xd11fdf9b95c544873bf3eafb9d5ac6dde24cfed1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Super Porker Club",
+  "SYMBOL": "SPC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 77000000000000000000,
+  "DISPLAY_COST": 77,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/superporkerclub",
+  "SHOW_BACKGROUND": true
+}
